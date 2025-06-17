@@ -1,0 +1,7 @@
+.direnv/
+**/public/
+**/resources/_gen/
+hugo.log
+hugo_stats.json
+.hugo_build.lock
+
