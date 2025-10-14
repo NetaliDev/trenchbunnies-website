@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "The Trench Bunnies"
-copyright = "[Impressum](https://legal.trenchbunnies.de/#impressum) | [Datenschutzerklärung](https://legal.trenchbunnies.de/#datenschutz)"
+copyright = "&copy; 2025 The Trench Bunnies | [Impressum](https://legal.trenchbunnies.de/#impressum) | [Datenschutzerklärung](https://google.de)"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
